@@ -8,7 +8,7 @@ printf("Enter a number : \n");
 scanf("%d",&n);
 
 if(n%2==0){
-    printf("NUMBER IS EVEN\n",n);
+    printf("NUMBER IS EVE\n",n);
 }
 else {
     printf("NUMBER IS ODD\n");
